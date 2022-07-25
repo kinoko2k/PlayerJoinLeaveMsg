@@ -1,2 +1,4 @@
 # PlayerJoinLeaveMsg
 Playerが出入りしたときにメッセージを出力する
+
+MesiokaServerで開発
