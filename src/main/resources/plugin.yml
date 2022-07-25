@@ -1,0 +1,6 @@
+name: PlayerLoginLeaveMsg
+version: '${project.version}'
+main: com.kinoko.testplugin.Testplugin
+api-version: 1.18
+authors: [ Kinoko_2K ]
+website: kinoko2k.github.io
