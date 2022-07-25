@@ -1,0 +1,2 @@
+# PlayerJoinLeaveMsg
+Playerが出入りしたときにメッセージを出力する
